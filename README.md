@@ -22,3 +22,5 @@
 確保您的電腦已安裝 Python 3.8+，然後運行：
 ```bash
 pip install -r requirements.txt
+
+<img width="904" height="1453" alt="001" src="https://github.com/user-attachments/assets/1e00baaa-0857-400f-8280-d562946e5da4" />
