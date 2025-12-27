@@ -1,6 +1,7 @@
 (全程使用gemini製作)
 # 📸 Unsplash 桌布自動更換器
 [![下載 Windows 版本](https://img.shields.io/badge/下載-Windows%20版本-blue?style=for-the-badge&logo=windows)](https://github.com/zarakiz/Windows-auto-wallpaper/releases/tag/v1.0.0)
+
 一個基於 Python 開發的輕量級 Windows 桌布自動換圖工具。利用 Unsplash API 獲取高品質 4K 圖片，並支援開機自啟動與後台執行。
 
 ## ✨ 功能特色
