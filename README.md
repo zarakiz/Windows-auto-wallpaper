@@ -4,6 +4,8 @@
 
 一個基於 Python 開發的輕量級 Windows 桌布自動換圖工具。利用 Unsplash API 獲取高品質 4K 圖片，並支援開機自啟動與後台執行。
 
+<img width="904" height="1453" alt="001" src="https://github.com/user-attachments/assets/1e00baaa-0857-400f-8280-d562946e5da4" />
+
 ## ✨ 功能特色
 - **多樣化主題**：支援動漫、賽博龐克、自然風景等 14 種風格選擇。
 - **高畫質體驗**：強制抓取橫向 (Landscape) 高清大圖。
@@ -22,5 +24,3 @@
 確保您的電腦已安裝 Python 3.8+，然後運行：
 ```bash
 pip install -r requirements.txt
-
-<img width="904" height="1453" alt="001" src="https://github.com/user-attachments/assets/1e00baaa-0857-400f-8280-d562946e5da4" />
